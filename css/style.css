@@ -70,3 +70,51 @@ nav a::before {
 nav a:hover::before {
     width: 100%;
 }
+
+.headshot_center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-top: 50px;
+}
+
+.content_heading{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 50px;
+    color: white;
+}
+
+.aboutme_text{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    color:white;
+}
+
+.aboutme_links{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.publications_year{
+    display: block;
+    margin-left: 10%;
+    margin-right: auto;
+    margin-top: 50px;
+    color: white;
+}
+
+.publications_paper{
+    display: block;
+    margin-left: 10%;
+    margin-right: auto;
+    margin-top: 10px;
+    color: white;
+}
