@@ -126,3 +126,28 @@ nav a:hover::before {
     text-align: center;
     color: white;
 }
+
+.research_container{
+    margin: 100px auto;
+    width: 75%;
+}
+
+.research_image{
+    max-width: 350px;
+    max-height: 350px;
+    float: left;
+    border-radius: 10px;
+    border: 3px solid white;
+    margin-right: 20px;
+}
+
+.research_head{
+    font-size: 25px;
+    padding-left: 5px;
+    color: white;
+}
+
+.research_text{
+    font-size: 20px;
+    color: white;
+}
