@@ -76,13 +76,14 @@ nav a:hover::before {
     align-items: center;
     justify-content: center;
     margin-top: 10%;
-    margin-left: 10%;
     padding: 20px;
 }
 
 .home_image{
     flex: 0 0 auto;
-    margin-right: 20px;
+    margin-right: 0px;
+    width: 40%;
+    height: auto;
 }
 
 .home_text{
