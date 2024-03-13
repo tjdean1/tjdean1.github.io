@@ -84,6 +84,7 @@ nav a:hover::before {
     margin-right: 0px;
     width: 40%;
     height: auto;
+    object-fit: cover;
 }
 
 .home_text{
@@ -183,9 +184,13 @@ nav a:hover::before {
     max-width: 350px;
     max-height: 350px;
     float: left;
-    border-radius: 10px;
+    border-radius: 15px;
     border: 3px solid white;
     margin-right: 20px;
+}
+
+.research_image img {
+    border-radius: 15px;
 }
 
 .research_head{
