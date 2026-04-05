@@ -2,7 +2,7 @@
 title: "Mechanistic basis for enhanced strigolactone sensitivity in KAI2 triple mutant"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-01-09-paper-title-number-4
+permalink: /publication/2025-04-22-paper-title-number-4
 excerpt: 'This study uses molecular dynamics simulations to show how specific mutations in the Arabidopsis KAI2 receptor enhance strigolactone sensitivity by stabilizing ligand binding, enlarging the binding pocket, and increasing binding rates—offering insight into engineering crop receptors to better detect and resist the parasitic weed Striga hermonthica.'
 date: 2025-04-22
 venue: 'Biophysical Journal'

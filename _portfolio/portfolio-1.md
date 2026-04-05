@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Accelerating Optimization of Flow Model Generated Ligands through Particle Swarm Optimization (PSO)"
+excerpt: "This project extends the MoFlow molecular generative model by integrating Particle Swarm Optimization (PSO) to efficiently explore latent space for molecule design. Instead of relying on random sampling, latent vectors are treated as particles that iteratively optimize toward desired chemical properties such as synthetic accessibility, logP, and learned predictor scores. By combining generative modeling with optimization, the approach enables more targeted and efficient discovery of high-quality candidate molecules, supporting both single- and multi-objective optimization workflows."
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+The GitHub repo is available here: [GitHub repo](https://github.com/tjdean1/moflow_pso)
